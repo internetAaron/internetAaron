@@ -4,9 +4,9 @@
 
 - [Intro](#intro)
 - [About Me](#about-me)
-- Values that are Important to Me
-- Me as a Manager/Leader
-- Things I Need Help With
+- [Values that are Important to Me](#values-that-are-important-to-me)
+- [Me as a Manager and Leader](#me-as-a-manager-and-leader)
+- [Things I Need Help With](#things-i-need-help-with)
 
 # **Intro**
 
@@ -61,7 +61,7 @@ Collaboration only works if we have a diverse set of voices at the table; otherw
 
 Initially trust is given not earned. We may lose each other’s trust at times and have to earn it back, but from day one, trust is given. This is a value worth working for. Effective teams must have trust so they can rely on each other to get their jobs done.
 
-# **Me as a Manager / Leader**
+# **Me as a Manager and Leader**
 
 ### **People & Team First**
 
