@@ -39,7 +39,7 @@ Over the years I’ve been asked to take a few personality tests at work. I find
 
 - I can be uncomfortable with unconventional situations. I can be quick to see what could go wrong. If you see me doing this ask me about the positives of this different approach. I almost always have strong opinions loosely held.
 - ESTJ have strong convictions about what is right, wrong, and socially acceptable. If you notice me making a quick judgement ask why I'm feeling that way.
-- ESTJ can get so caught up in meeting others’ expectations that they fail to address their own needs. Asking me what my expectations or goals are is a good way for me to put my focus on myself. 
+- ESTJ can get so caught up in meeting others’ expectations that they fail to address their own needs. Asking me what my expectations or goals are is a good way for me to put my focus on myself and my expectations. 
 
 # Values that are Important to Me
 
