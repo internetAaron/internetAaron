@@ -96,7 +96,7 @@ Don’t be afraid to make mistakes. Share early and often to avoid the big mista
 
 ### **Work/Life Balance**
 
-I have a busy life and I hope you do too. My wife and kids pull me away from work and I’m thankful for that. I know everyone doesn’t have this “luxury” build in so I’ll encourage you to have a good balance if I see you working to much. 
+I have a busy, fulfilling life and I hope you do too. My wife and kids pull me away from work and I’m thankful for that. I know everyone doesn’t have this “luxury” build in so I’ll encourage you to have a good balance if I see you working to much. 
 
 ### 360 Feedback
 
