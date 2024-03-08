@@ -17,7 +17,7 @@ I was first introduced to this concept by a friend who really enjoyed and got a 
 My name is Aaron White and I live in Bloomington, IN with my wife Nicole, our two kids (Ava and Cooper), and our two dogs (Opal & Pearl). When I’m not spending time with my family I have a few personal hobbies.
 
 - Woodworking and home DIY projects
-- Golf
+- Golf (my daughter golfs now which helps me get to the course more)
 - Motocross (my son races, I’m his mechanic, coach, and biggest fan)
 - Doing IT and Ops work for my wife’s small business. ([FIT812: Fitness Club](https://www.fit812.com/))
 
