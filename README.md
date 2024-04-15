@@ -113,6 +113,6 @@ In the spirit of transparency, I'll share recent mNPS feedback from my peers and
 
 We all have things we need help improving. Below are a few things I could always use help with to improve.
 
-- I often jump into Product Manager mode on with any discussion. If you’re just looking to vent, share your perspective, and have someone listen to you, please let me know. I'll set my product brain aside, apart from the empathy, and will just listen! 
+- I often jump into Product Manager mode with any discussion. If you’re just looking to vent, share your perspective, and have someone listen to you, please let me know. I'll set my product problem solving brain aside, apart from the empathy, and will just listen! 
 - I am very laid back which helps me be a calm in the storm. There are moments when everyone is stressed or frantic and I might appear as if I don’t care. This is just my demeanor and know that I’m just as concerned as everyone else.
 - I can often move quickly onto the next thing and forget to celebrate. I love to celebrate so just remind me and let’s party!
