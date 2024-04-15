@@ -10,7 +10,7 @@
 
 # **Intro**
 
-I was first introduced to this concept by a friend who really enjoyed and got a lot out of the self reflection it takes to write a document like this. I, too, really enjoyed this and hope it paints a clear picture of who I am, what makes me tick, and how you might experience working with me. 
+I was first introduced to this concept by a friend who enjoyed it and got a lot out of the self-reflection it takes to write a document like this. I, too, really enjoyed this and hope it paints a clear picture of who I am, what makes me tick, and how you might experience working with me. 
 
 # **About Me**
 
@@ -19,7 +19,7 @@ My name is Aaron White and I live in Bloomington, IN with my wife Nicole, our tw
 - Golf (my daughter golfs now which helps me get to the course more)
 - Motocross (my son races, I’m his mechanic, coach, and biggest fan)
 - Doing IT and Ops work for my wife’s small business. ([FIT812: Fitness Club](https://www.fit812.com/))
-- Woodworking and home DIY projects
+- Woodworking and home DIY projects (I built most of the furniture in my office)
 
 ### **Personality Types**
 
@@ -43,11 +43,11 @@ Over the years I’ve been asked to take a few personality tests at work. I find
 
 # Values that are Important to Me
 
-I’ve grown a lot through my life experiences and my career. Some of what you’ll read below have been engrained in me since I was a kid. Other principles are things I’ve learned along the way. 
+I’ve grown a lot through my life experiences and my career. Some of what you’ll read below have been ingrained in me since I was a kid. Other principles are things I’ve learned along the way. 
 
 ### Transparency
 
-Leading through transparency is the only way I know how to lead. It builds psychological safety for those I work with, improves alignment, trust, and helps everyone do their job better. There are certainly moments to withhold information but only for specific reasons. 
+Leading through transparency is the only way I know how to lead. It builds psychological safety for those I work with, improves alignment, and trust, and helps everyone do their job better. There are certainly moments to withhold information but only for specific reasons. 
 
 ### Kindness
 
@@ -67,7 +67,7 @@ Initially, trust is given, not earned. We may lose each other’s trust at times
 
 Without strong, thriving individuals and teams, every other effort is far more challenging. My top priority is to make sure individuals and teams are growing, thriving, and feeling fulfilled. 
 
-My goal is to have empowered individuals that take ownership, make decisions, keep me informed as needed, and eagerly consult me when needed.
+My goal is to have empowered individuals who take ownership, make decisions, keep me informed as needed, and eagerly consult me when needed.
 
 The other goal is to have empowered teams. There’s nothing more powerful than an empowered team that knows how they add value, communicates that clearly, and collaborates where needed. 
 
@@ -100,7 +100,7 @@ I have a busy, fulfilling life and I hope you do too. My wife and kids pull me a
 
 ### 360 Feedback
 
-In the spirit of transparency, I'll share a recent mNPS feedback from my peers and direct reports:
+In the spirit of transparency, I'll share recent mNPS feedback from my peers and direct reports:
 
 - Enables his teams. Service oriented leader. Removes roadblocks. Down-to-earth.
 - I appreciate his level-headed, tactical approach to everything. He's also super reasonable and does a great job of walking the line between treating everyone as a peer and being an authority when needed.
@@ -113,6 +113,6 @@ In the spirit of transparency, I'll share a recent mNPS feedback from my peers a
 
 We all have things we need help improving. Below are a few things I could always use help with to improve.
 
-- I often jump into Product Manager mode on with any discussion. If you’re just looking to vent, share perspective, and have someone listen to you, please let me know. I'll set my product brain aside, apart from the empathy, and will just listen! 
+- I often jump into Product Manager mode on with any discussion. If you’re just looking to vent, share your perspective, and have someone listen to you, please let me know. I'll set my product brain aside, apart from the empathy, and will just listen! 
 - I am very laid back which helps me be a calm in the storm. There are moments when everyone is stressed or frantic and I might appear as if I don’t care. This is just my demeanor and know that I’m just as concerned as everyone else.
-- I can often move quickly onto the next thing and forget to celebrate. I actually love to celebrate so just remind me and let’s party!
+- I can often move quickly onto the next thing and forget to celebrate. I love to celebrate so just remind me and let’s party!
